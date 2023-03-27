@@ -19,7 +19,7 @@
 
 ## 2. Pathway Information  
 
-- The pathway view shows complexes, reactions, etc from Reactome Data (https://reactome.org/).
+- The pathway view shows complexes, reactions, etc from Reactome Data.
 
 ![Drag Racing](img/path_info.png)
 
