@@ -1,5 +1,5 @@
 
-# A Project of Biological Pathway Analyzer
+# A Project for Biological Pathway Analyzer
 
 - A biological pathway analyzer is a web-based tool that is used to study and understand the complex biological pathways that occur within living organisms. 
 
@@ -11,15 +11,15 @@
 
 # Current Features of the Biological Pathway Analyzer (BPA) 
 
-## 1. Basic User Interface.
+## 1. Basic User Interface
 
-- BPA contains a pathway view, detailed information view, and pathway view.
+- BPA contains a pathway list view, information view, and pathway view.
 
 ![Drag Racing](img/gui.png)
 
 ## 2. Pathway Information  
 
-- The pathway view shows complexes, reactions, etc from Reactome Data.
+- The pathway view shows complexes, reactions, etc from Reactome Data (https://reactome.org/).
 
 ![Drag Racing](img/path_info.png)
 
@@ -36,8 +36,7 @@
 
 ![Drag Racing](img/literature.png)
 
-## Demo link
-The web link is below.
+## Demo Link of the Biological Pathway Analyzer
 
 https://bpanalyzer.netlify.app/
 
